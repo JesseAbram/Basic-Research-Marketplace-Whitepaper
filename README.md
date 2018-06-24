@@ -39,11 +39,15 @@ Marketing plan
 
 To start the monetization cycle, BRM aims to obtain administrative health data from the Canadian government in a bid to attract a base of users. Once these users have been introduced to the platform, the focus would be to communicate with these parties in order to collect information about their other needs. Utilizing this information, BRM will match researchers to users to drive commerce on its platform.
 
+<b>https://i.imgur.com/swsRERJ.png</b>
+
 
 Monetization
 
 Once the initial injection of data is complete, the BRM will provide an online space that links researchers to end users of information. Users will transfer funds to researchers via Ether with a flat-rate charge applied.
 
+
+<b>https://i.imgur.com/4QdPahW.png</b>
 
 Another monetization route would be to charge a rate to use our identification layer protocol. The rate would be small not to discourage usage. 
 
@@ -60,3 +64,7 @@ The smart contracts will be generated on the fly through the front-end of the da
 Since the smart contracts are being generated on the fly all new contracts can be updated. In fact, old contracts can be killed by the msg.sender and updated (as long as the front end of the app can realize how many times the data has been bought and therefore can kill the contract at the appropriate time).
 Encrypting the data ensures the user ownership but makes it harder to make sure data is not being reused. As well, a person can buy the data and then just share it with others so a piece of research can be reused anyways. It will take community measures outside the app to make sure that research is not being reused. This is not a perfect solution but unlike today adds certain incentives that we do not have.
 When an individual goes to buy data they will also create an account and can either pay a fixed price or a bidding price of sorts depending on how the owner of the data set the contract up (they idea is to give the owner as much autonomy as possible). The user will get the hash then the front-end will send a generated transaction from the seller able to decrypt the files. The files will then be available for download.
+
+Our code Implementation
+
+https://ropsten.etherscan.io/address/0x7bd9ecd5dbfa138ccc1e47e1bc9cba4f8fcd41a5
