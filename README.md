@@ -42,7 +42,6 @@ To start the monetization cycle, BRM aims to obtain administrative health data f
 <img src="https://i.imgur.com/swsRERJ.png"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
-https://i.imgur.com/swsRERJ.png
 
 
 Monetization
