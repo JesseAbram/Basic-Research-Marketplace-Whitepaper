@@ -39,15 +39,19 @@ Marketing plan
 
 To start the monetization cycle, BRM aims to obtain administrative health data from the Canadian government in a bid to attract a base of users. Once these users have been introduced to the platform, the focus would be to communicate with these parties in order to collect information about their other needs. Utilizing this information, BRM will match researchers to users to drive commerce on its platform.
 
-<b>https://i.imgur.com/swsRERJ.png</b>
+<img src="https://i.imgur.com/swsRERJ.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
+https://i.imgur.com/swsRERJ.png
 
 
 Monetization
 
 Once the initial injection of data is complete, the BRM will provide an online space that links researchers to end users of information. Users will transfer funds to researchers via Ether with a flat-rate charge applied.
 
-
-<b>https://i.imgur.com/4QdPahW.png</b>
+<img src="https://i.imgur.com/4QdPahW.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
 
 Another monetization route would be to charge a rate to use our identification layer protocol. The rate would be small not to discourage usage. 
 
